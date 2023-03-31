@@ -1,0 +1,37 @@
+[MCDR] [2022-07-23 21:38:31] [MainThread/INFO]: MCDReforged正于Python 3.10.1环境中运行
+[MCDR] [2022-07-23 21:38:31] [TaskExecutor/INFO]: 刷新所有插件中
+[MCDR] [2022-07-23 21:38:31] [TaskExecutor/INFO]: 插件 auto_plugin_reloader@1.0.1 已加载
+[MCDR] [2022-07-23 21:38:31] [TaskExecutor/INFO]: 插件 beep@1.0.0 已加载
+[MCDR] [2022-07-23 21:38:31] [TaskExecutor/INFO]: 插件 carpetbotlist@2.1.1 已加载
+[MCDR] [2022-07-23 21:38:31] [TaskExecutor/INFO]: 插件 crash_restart@1.0.0 已加载
+[MCDR] [2022-07-23 21:38:31] [TaskExecutor/INFO]: 插件 here@1.1.2 已加载
+[MCDR] [2022-07-23 21:38:32] [TaskExecutor/INFO]: 插件 info@0.0.2 已加载
+[MCDR] [2022-07-23 21:38:32] [TaskExecutor/INFO]: 插件 join_motd@1.2.0 已加载
+[MCDR] [2022-07-23 21:38:32] [TaskExecutor/INFO]: 插件 minecraft_data_api@1.4.1 已加载
+[MCDR] [2022-07-23 21:38:32] [TaskExecutor/INFO]: 插件 quick_backup_multi@1.2.2 已加载
+[MCDR] [2022-07-23 21:38:32] [TaskExecutor/INFO]: 插件 stats_helper@7.1.3 已加载
+[MCDR] [2022-07-23 21:38:32] [TaskExecutor/INFO]: 共加载: §710§r 个插件; 已加载插件数: §712§r
+[MCDR] [2022-07-23 21:38:32] [MainThread/INFO]: 正在启动服务端，启动参数为 "java -Xms16g -Xmx24g -jar fabric-server-launch.jar"
+[MCDR] [2022-07-23 21:38:32] [MainThread/INFO]: 服务端正在以 PID 127600 运行中
+[MCDR] [2022-07-23 21:38:33] [CheckUpdate/INFO]: 已检测到新版本: §7v2.5.0§r。§7v2.5.0§r 的新内容:
+[MCDR] [2022-07-23 21:38:33] [CheckUpdate/INFO]:     ## News
+[MCDR] [2022-07-23 21:38:33] [CheckUpdate/INFO]:     
+[MCDR] [2022-07-23 21:38:33] [CheckUpdate/INFO]:     - Added new decorator api `@spam_proof`
+[MCDR] [2022-07-23 21:38:33] [CheckUpdate/INFO]:     
+[MCDR] [2022-07-23 21:38:33] [CheckUpdate/INFO]:     ## Changes
+[MCDR] [2022-07-23 21:38:33] [CheckUpdate/INFO]:     
+[MCDR] [2022-07-23 21:38:33] [CheckUpdate/INFO]:     - Make sure `CommandContext` passed as arguments are copies when invoking command callbacks (fixed #185) 
+[MCDR] [2022-07-23 21:38:33] [CheckUpdate/INFO]:     
+[MCDR] [2022-07-23 21:38:33] [CheckUpdate/INFO]:     ## Fixes
+[MCDR] [2022-07-23 21:38:33] [CheckUpdate/INFO]:     
+[MCDR] [2022-07-23 21:38:33] [CheckUpdate/INFO]:     - Fixed typo: `configure` should be `configuration` (#178)
+[MCDR] [2022-07-23 21:38:33] [CheckUpdate/INFO]:     - Fixed `Enumeration` command tree node and related exception are not included in api package
+[MCDR] [2022-07-23 21:38:33] [CheckUpdate/INFO]:     - Quite a few document detail fixes
+[MCDR] [2022-07-23 21:38:33] [CheckUpdate/INFO]:     
+[MCDR] [2022-07-23 21:38:33] [CheckUpdate/INFO]:     **Full Changelog**: https://github.com/Fallen-Breath/MCDReforged/compare/v2.4.0...v2.5.0
+[MCDR] [2022-07-24 15:58:08] [MainThread/INFO]: 等待服务端进程停止
+[MCDR] [2022-07-24 15:58:08] [MainThread/INFO]: 服务端进程返回代码: 0
+[MCDR] [2022-07-24 15:58:08] [MainThread/INFO]: 服务端已关闭
+[MCDR] [2022-07-24 15:58:08] [MainThread/INFO]: 正在关闭 MCDR
+[MCDR] [2022-07-24 15:58:08] [MainThread/INFO]: 正在关闭高级控制台
+[MCDR] [2022-07-24 15:58:08] [MainThread/INFO]: bye

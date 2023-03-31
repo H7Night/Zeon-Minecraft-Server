@@ -1,0 +1,22 @@
+{
+  "fly": {
+    "cls": "custom",
+    "target": "aviate_one_cm",
+    "title": "芜湖"
+  },
+  "dig_diamond": {
+    "cls": "used",
+    "target": "diamond_pickaxe",
+    "title": "挖（钻石镐"
+  },
+  "dig_netherite": {
+    "cls": "used",
+    "target": "netherite_pickaxe",
+    "title": "挖（下界镐"
+  },
+  "dig_obsidian": {
+    "cls": "mined",
+    "target": "obsidian",
+    "title": "挖黑曜石"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "join": true,
+    "click_event": true,
+    "servers": {
+        "Zeon": {
+            "host": "127.0.0.1",
+            "port": 25575,
+            "password": "password"
+        },
+        "Create": {
+            "host": "127.0.0.1",
+            "port": 25585,
+            "password": "password"
+        }
+    }
+}

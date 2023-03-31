@@ -1,0 +1,145 @@
+# This is the permission config and storage file of MCDReforged
+# It is used to storage permission level stuffs of MCDR
+# Available levels (top to down):
+# - owner
+# - admin
+# - helper
+# - user
+# - guest
+
+
+default_level: user
+owner:
+- Fallen_Breath
+admin:
+- H7Night
+- mikefoo
+- onninebrother
+helper:
+user:
+- drinktea
+- Steve
+- Nero
+- z
+- Leo
+- Bot7
+- fanshu
+- Mike
+- Foo
+- Dio
+- xiaban
+- sa
+- Azu
+- AQiang
+- 忆夕
+- Bot1
+- Bot2
+- Bot_Steve
+- bot_iron
+- bot_stone
+- bot_bot1
+- bot_cc
+- bot_iro
+- bot_zhutou
+- bot_pig
+- bot_onninesister
+- bot_onninesen
+- bot_shengzai
+- bot_yangzai
+- bot_zhongcai
+- bot_yangzhai
+- bot_alex
+- bot_caibi
+- bot_fanshu
+- bot_sos
+- bot_sscz
+- bot_daad
+- bot_yangsun
+- BOT_Sun
+- bot_junjun
+- bot_gtalao
+- bot_leo
+- bot_drinktea
+- bot_shengtie
+- bot_ajun
+- bot_azu
+- bot_dians
+- bot_bot2
+- bot_bot3
+- bot_bot_2
+- bot_bot4
+- bot_guaji
+- bot_ing
+- bot_ss
+- bot_modi
+- bot_hei
+- bot_hei2
+- bot_weiheping
+- bot_bot_hei
+- bot_bot_leo
+- bot_modi2
+- bot_modi3
+- bot_bot_modi3
+- bot_modi4
+- bot_stb
+- bot_on9
+- bot_gaocao
+- bot_jinbo
+- bot_yinzei
+- bot_bot_modi2
+- bot_alexss
+- bot_sas
+- bot_dajb
+- bot_apiao
+- bot_bei
+- bot_tie
+- bot_xxz
+- bot_mikefoo
+- Bot_Test
+- bot_jbb
+- bot_1
+- bot_2
+- bot_3
+- Bot_4
+- bot_5
+- bot_6
+- BOT_7
+- Bot_8
+- Bot_9
+- bot_bot_3
+- bot_cosmos
+- bot_slim
+- bot_zhubi
+- bot_soil
+- Bot_sex
+- Bot_Alex
+- bot_bot_steve
+- bot_zhiwei
+- bot_bot_tie
+- bot_sbb
+- bot_sdb
+- bot_dawei
+- bot_weige
+- bot_awei
+- bot_aweisang
+- bot_ziwei
+- bot_zhuzhu
+- bot_one
+- bot_two
+- bot_bot_stevess
+- Bot_A
+- bot_bot_alex
+- bot_simimasai
+- BOT_SB
+- BOT_DSB
+- bot_xsb
+- bot_xgb
+- bot_weijj
+- bot_gbwei
+- bot_junge
+- bot_jungao
+- bot_xbjun
+- bot_vbjun
+- bot_saozi
+- Bot_Steven
+guest:

@@ -1,0 +1,4 @@
+sphinx                  # core
+sphinx-intl             # locale
+sphinx-markdown-tables  # for markdown table
+sphinx-rtd-theme        # the theme of the webside
