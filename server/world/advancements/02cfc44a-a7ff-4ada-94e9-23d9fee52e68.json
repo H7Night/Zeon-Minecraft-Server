@@ -1,0 +1,28 @@
+{
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-06-24 19:21:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-06-24 19:21:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:swamp": "2021-03-22 20:55:48 +0800",
+      "minecraft:plains": "2020-07-14 16:00:01 +0800"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2021-06-24 19:21:02 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2567
+}

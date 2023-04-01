@@ -1,0 +1,15 @@
+{
+    "type":"crafting_shapeless",
+    "ingredients":[
+        {
+            "item":"minecraft:prismarine_shard"
+        },
+        {
+            "tag":"minecraft:wool"
+        }
+    ],
+    "result":{
+        "item":"minecraft:sponge"
+    }
+}
+

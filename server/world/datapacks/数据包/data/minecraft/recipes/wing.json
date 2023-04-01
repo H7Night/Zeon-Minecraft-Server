@@ -1,0 +1,15 @@
+{
+    "type":"crafting_shapeless",
+    "ingredients":[
+        {
+            "item":"minecraft:leather"
+        },
+        {
+            "item":"minecraft:phantom_membrane"
+        }
+    ],
+    "result":{
+        "item":"minecraft:elytra"
+    }
+}
+

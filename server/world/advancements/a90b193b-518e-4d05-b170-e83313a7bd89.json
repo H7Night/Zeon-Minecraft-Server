@@ -1,0 +1,22 @@
+{
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2021-08-25 21:35:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2021-08-25 21:35:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-08-25 21:35:52 +0800",
+      "minecraft:plains": "2021-08-26 02:35:20 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2584
+}

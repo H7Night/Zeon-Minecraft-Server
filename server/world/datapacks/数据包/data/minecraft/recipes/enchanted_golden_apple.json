@@ -1,0 +1,14 @@
+{
+    "type":"crafting_shapeless",
+    "ingredients":[
+        {
+            "item":"minecraft:golden_apple"
+        },
+        {
+            "item":"minecraft:enchanted_book"
+        }
+    ],
+    "result":{
+        "item":"minecraft:enchanted_golden_apple"
+    }
+}
