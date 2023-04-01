@@ -1,15 +1,21 @@
 Zeon Minecraft Server
 --------
 
-> 使用MCDR作为启动器的Minecraft服务器
+> 使用`MCDReforged-2.0.3`作为启动器的Minecraft服务器
+> 
 > 此处用于备份MCDR相关备份与服务器存档备份
+
+## Version
+- MCDR: MCDReforged-2.0.3
+- Minecraft: 1.16.4
+- Fabric: 0.7.4
 
 ## MCDR
 - [MCDR](https://github.com/Fallen-Breath/MCDReforged)
 - 插件：https://github.com/MCDReforged/PluginCatalogue
 - 文档： https://mcdreforged.readthedocs.io/zh_CN/latest/
 
-## 使用
+## Use
 1. 在使用MCDR之前还需要下载相关python环境
 2. 游戏服务器的所有文件存放在MCDR文件夹中的server中。
 3. config.yml中配置
