@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "1ee31163-1b97-33b6-9117-948af2acaa1c",
+    "name": "H7Night",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "601d7f5c-724f-38cc-9e7c-1c77dddd02a7",
+    "name": "onninebrother",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "89d77937-8516-3e64-ab6f-ab65bc6cd4fb",
+    "name": "mikefoo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
